@@ -1,0 +1,10 @@
+
+El numero a buscar: 14
+Elemento no encontrado
+[1][2][3][4][5]
+El numero a buscar: 5
+Elemento encontrado en la posicion: 4
+
+[1][2]
+El numero a buscar: 3
+Elemento no encontrado
